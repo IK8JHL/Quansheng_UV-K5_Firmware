@@ -1,6 +1,6 @@
 # If you want, change the frequencies of the tone burst.
 
-tone = int(1750) # change 1750 to any frequency in Hz
+tone = int(1050) # change 1750Hz  to 1050 Hz to test NOOA channel , if you want ,can change any frequency in Hz
 
 
 ##--------------------- do not modify below this line ---------------------------------------------------
