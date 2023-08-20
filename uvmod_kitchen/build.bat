@@ -16,7 +16,7 @@ rem mod_piotr022_rssi_sbar.py temp\fw.dec.bin
 
 
 :: here comment or uncomment mods
-
+    python mod_5Tone_test.py temp\fw.dec.bin
     python mod_change_Tone_1750Hz.py temp\fw.dec.bin
     python mod_battery_icon.py temp\fw.dec.bin
 rem python mod_negative_screen.py temp\fw.dec.bin
