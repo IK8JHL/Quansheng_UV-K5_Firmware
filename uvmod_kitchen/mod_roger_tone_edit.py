@@ -1,8 +1,8 @@
-# If you want, configure these two parameters to change the frequencies of the roger beep two tones.
+# If you want, configure these four parameters to change the frequencies and lenght of the roger beep two tones.
 
  
-tone1 = 1033 # change 1540 to any frequency in Hz
-tone2 = 2070 # change 1310 to any frequency in Hz
+tone1 = 1033 # change 1033 to any frequency in Hz
+tone2 = 2070 # change 2070 to any frequency in Hz
 lt1 = 40 # change lenght tone1 150 to any time in ms 
 lt2 = 40 # change lenght tone2 80 to any time in ms
 
