@@ -46,7 +46,9 @@ rem python mod_custom_bootscreen_narrow.py temp\fw.dec.bin
 rem python mod_enable_swd_port.py temp\fw.dec.bin
 
 python src\new_0x051f_handler\mod_051f_ramreader.py temp\fw.dec.bin
-python mod_roger_mototrbo_like.py temp\fw.dec.bin
+rem python mod_roger_mototrbo_like.py temp\fw.dec.bin
+    
+    python mod_roger_tone_edit.py temp\fw.dec.bin
 
 :: end of mods
 
