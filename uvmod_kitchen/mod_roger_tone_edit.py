@@ -3,8 +3,8 @@
  
 tone1 = 1033 # change 1033 to any frequency in Hz
 tone2 = 2070 # change 2070 to any frequency in Hz
-lt1 = 40 # change lenght tone1 150 to any time in ms 
-lt2 = 40 # change lenght tone2 80 to any time in ms
+lt1 = 40 # change lenght tone1 150 to any time in ms (max 255 ms)
+lt2 = 40 # change lenght tone2 80 to any time in ms (max 255 ms)
 
 ##--------------------- do not modify below this line ---------------------------------------------------
 import os,sys,struct
